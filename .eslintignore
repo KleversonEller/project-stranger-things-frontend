@@ -1,2 +1,3 @@
 cypress
 src/serviceWorker.js
+src/components/StrangerThings.js
